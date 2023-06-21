@@ -1,0 +1,4 @@
+name: First-Spigot-Plugin
+version: '${project.version}'
+main: com.turtleboi.firstspigotplugin.First_Spigot_Plugin
+api-version: '1.20'
