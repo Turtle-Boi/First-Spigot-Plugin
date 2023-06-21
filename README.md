@@ -18,6 +18,10 @@ This is my first spigot plugin I am currently developing, so I can learn the rop
 ## Installation
 - **Download** the plugin from the [releases page](https://github.com/Turtle-Boi/First-Spigot-Plugin/releases).
 - Put the plugin into your **plugins** folder in the root directory of your **Spigot server**.
+- Run your **Spigot server**.
+- Voila, the plugin should now be functioning\*.
+
+**If the plugin is not working as expected, contact me on Discord, @turtle.boi*
 
 ## Attributions
 - **Turtleboi**, @turtle.boi on discord, *me*
